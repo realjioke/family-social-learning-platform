@@ -1,0 +1,12 @@
+HTTrack3.49-6 launched on Thu, 25 Sep 2025 15:14:25 at https://family-social-learning-platform-9yaf9idd.sites.blink.new
+(httrack https://family-social-learning-platform-9yaf9idd.sites.blink.new -O /data/data/com.termux/files/home/mysite )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:14:27	Warning: 	File not parsed, looks like binary: https://family-social-learning-platform-9yaf9idd.sites.blink.new/robots.txt
+
+HTTrack Website Copier/3.49-6 mirror complete in 5 seconds : 5 links scanned, 4 files written (537490 bytes overall) [159053 bytes received at 31810 bytes/sec], 537925 bytes transferred using HTTP compression in 5 files, ratio 28%, 2.5 requests per connection
+(No errors, 1 warnings, 0 messages)
